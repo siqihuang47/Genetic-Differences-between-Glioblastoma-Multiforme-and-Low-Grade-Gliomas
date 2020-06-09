@@ -11,9 +11,6 @@ from all_viz import draw_focal_plots
 sys.path.insert(0, 'src')
 from all_viz import draw_focal_proportion_plots
 
-# import function from etl to get the data
-sys.path.insert(0, 'src')
-from etl import get_data
 
 
 # set the params to get the visualization configurations
