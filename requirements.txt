@@ -13,9 +13,13 @@ Data Ingestion
 
 Visualization & Analysis
 	Python 3
+		sys
 		pandas
 		numpy
 		matplotlib
 		re
 		json
 		subprocess
+	R
+		BiocManager
+		TCGAbiolinks
