@@ -1,4 +1,3 @@
-#! /usr/bin/Rscript
 setwd('..')
 setwd('reports/figures')
 

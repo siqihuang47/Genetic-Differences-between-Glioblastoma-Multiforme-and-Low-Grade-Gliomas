@@ -3,7 +3,7 @@ setwd('~/downloaded')
 
 # We first install packages biocManager and TCGAbiolinks that are needed
 if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
+    install.packages("BiocManager", repos = "http://cran.us.r-project.org")
 
 BiocManager::install("TCGAbiolinks")
 

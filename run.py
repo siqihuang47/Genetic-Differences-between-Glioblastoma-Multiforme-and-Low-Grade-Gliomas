@@ -25,7 +25,6 @@ draw_focal_proportion = cfg['draw_focal_score_probability_plots']
 
 # download data and get the visualizations
 def main():
-    get_data()
     if draw_surviv:
         draw_survival_plot
     if draw_focal:
