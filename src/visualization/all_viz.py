@@ -13,8 +13,8 @@ def draw_survival_plot():
 # Draw the focal plots
 def draw_focal_plots():
     # Read the data from the external sources
-    lgg_p = '../data/external/LGG.focal_score_by_genes.txt'
-    gbm_p = '../data/external/GBM.focal_score_by_genes.txt'
+    lgg_p = '/data/external/LGG.focal_score_by_genes.txt'
+    gbm_p = '/data/external/GBM.focal_score_by_genes.txt'
     lgg_df = pd.read_csv(lgg_p, sep = '\t')
     gbm_df = pd.read_csv(gbm_p, sep = '\t')
 
