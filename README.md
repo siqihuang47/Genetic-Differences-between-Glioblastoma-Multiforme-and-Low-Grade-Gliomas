@@ -7,6 +7,8 @@
 
 
 Group members: Siqi Huang, Noah Inada, Yifei Ning
+
 Contact email: sih041, ninada, y3ning (@ucsd.edu)
+
 Q&A Zoom Link: https://ucsd.zoom.us/j/99848587998
 
